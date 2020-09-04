@@ -1,0 +1,1 @@
+This is a simple CLI based dictionary. This is coded in python.
